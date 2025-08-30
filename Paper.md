@@ -2,9 +2,9 @@
 ---
 title: "CDK Drift Guard"
 authors:
-  - name: "Your Name"
-    orcid: "YOUR-ORCID-ID"
-    affiliation: "Your Organization"
+  - name: "Kalyana Krishna Kondapalli"
+    orcid: "0009-0003-0832-259X"
+    affiliation: "Independent Researcher"
 ---
 
 # Summary
